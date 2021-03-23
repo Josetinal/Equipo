@@ -1,4 +1,4 @@
-<h<html>
+<html>
 <head>
 <title>ANIMALES</title>
 </head>
@@ -23,8 +23,8 @@ MENÚ
 </tr>
 
 <tr align=center>
-<td><a href="canario.html"><img src="canario.jpg" align="center" alt= "ave1"></a><t/d>
-<td><a href="reptiles.html"><img src="iguana.jpg" align="center" alt= "reptil"></a><t/d>
+<td<a href="canario.html"><img src="canario.jpg" align="center" alt= "ave1"></a><t/d>
+<td<a href="reptiles.html"><img src="iguana.jpg" align="center" alt= "reptil"></a><t/d>
 <td><a href="osohor.html"><img src="osohor.jpg" align="center" alt= "mamifero"></a><t/d>
 <td><a href="https://reinoanimalia.fandom.com/es/wiki/Sapo_Com%C3%BAn"><img src="sapoc.jpg" align="center" alt= "anfibio"></a><t/d>
 <td><a href="https://es.wikipedia.org/wiki/Cyprinus_carpio_koi"><img src="pezkoi.jpg" align="center" alt= "KOI"></a><t/d>
